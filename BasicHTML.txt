@@ -1,0 +1,85 @@
+Web Development: 
+
+1. HTML : Hyper Text Markup Language.
+2. CSS : cascading Style Sheet.
+3. JS : JavaScript
+
+
+
+
+1. Front-End Developer
+
+	-HTML
+	-CSS
+	-JS
+	-react , bootstrap etc
+
+
+2. Back-End Developer
+
+	-C , cpp
+	-Java
+	-Python
+	-Node JS etc..
+
+
+3. Full Stack Developer
+
+	front end + back end
+
+	frameworks :
+
+	1.React
+	2.Node
+	3.Angular
+
+
+
+
+===========================================
+
+
+1. HTML : Hyper Text Markup Language
+
+
+=> Use:- 
+
+- It is used to create a Structure of Webpage/Website
+
+	- Webpage : Single HTML File.
+	- Website : Collection of Multiple Webpages (HTML file)
+
+
+History of HTML: 
+
+=> FOunder : Tim Berner's Lee
+
+	- HTML 1.0 -> 1991
+
+	- HTML 2.0 -> 1995
+
+	- HTML 3.0 -> jan , 1997
+
+	- HTML 4.0 -> Dec, 1997
+
+	- HTML 5.0 -> 2014
+
+		5.2 -> 2017
+
+
+
+->  HTML stand for Hyper Text Markup Language.
+
+	1. Hyper Text :
+
+		Hyper : Link(hype)
+		Text : Content (text , video , image)
+
+
+	2. Markup Language : 
+
+		- Text encoding System
+
+
+- HTML is a markup language(not a programming language).
+	

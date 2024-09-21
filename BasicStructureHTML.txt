@@ -1,0 +1,24 @@
+<!DOCTYPE html>  // Version of html
+
+<html>  // opening html tag
+	
+</html>  // closing html tag
+
+Structure of HTML: 
+
+
+<!DOCTYPE html>
+<html>  
+	<head>  // opening head tag
+		<title></title>
+	</head> // closing head tag
+
+	<body>
+		
+	</body>
+</html> 
+
+
+
+
+
