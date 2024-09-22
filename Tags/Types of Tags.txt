@@ -1,0 +1,41 @@
+1. Inline Tag : it is used to format content within the flow of text ,
+		without breaking it into block.
+
+
+Example: 
+
+	- <b>
+	- <i>
+	- <u>
+	- <s>
+
+
+2. BLock Tags : it is used to define sections or block of content. these 
+		tags always start on a new line and take up the full 
+		width.
+
+		Example: 
+				<h1>
+				<p>
+				<pre>
+
+
+3. Unclosing Tags: these are the tags that don't have closing tag
+
+
+	Example: 
+		<br>
+		<hr>
+
+
+
+
+
+
+4. Empty Tag :  these tags don't have any content or closing tag.
+
+
+	Example: 
+
+
+		<br>
